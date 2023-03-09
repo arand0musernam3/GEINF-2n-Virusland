@@ -1,4 +1,11 @@
 # Virusland
-Java is so shit. I gotta make this song cry.
-I can't see 'em coming down my eye. So I gotta make this song cry.
-Fuck Java.
+Entrega provisional en procés.
+
+## Notes de la simulació
+tick():
+    1. aplicar vacunes (des del main s'hauràn aplicat)
+    2. moviments habitants
+        a) confinaments
+        b) moviments en sí
+    3. propagació dels virus
+    4. mutacions dels virus
