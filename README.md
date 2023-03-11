@@ -2,6 +2,7 @@
 Entrega provisional en procés.
 
 # Notes de la simulació
+```
 tick():
     1. aplicar vacunes (des del main s'hauràn aplicat)
     2. moviments habitants
@@ -9,6 +10,7 @@ tick():
         b) moviments en sí
     3. propagació dels virus
     4. mutacions dels virus
+```
 
 # Notes de funcionament programa
 ## Virus
@@ -29,6 +31,7 @@ també hem de tenir en compte la **prevalença**: major taxa contagi > probabili
 ### Nomenclatura
 #### Mutació simple
 grip -> grip1
+
 grip1 -> grip2
 
 #### Mutació conjunta
