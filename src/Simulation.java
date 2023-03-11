@@ -8,6 +8,7 @@ public static class Simulation {
     
         // els confinaments s'aplicaran directament amb les funcions setLockdown() i setHarshLockdown()
 		
+		
 		returnInhabitants();
 		
 		migrateInhabitants();
