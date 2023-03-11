@@ -1,4 +1,4 @@
-public static class Simulation {
+public class Simulation {
 	
 	//calcula cada tick i gestiona les operacions que s'han de fer a nivell de simulació
 	public static void tick() {
@@ -37,7 +37,7 @@ public static class Simulation {
     public static void setHarshLockdown(Region region, Boolean state, float new_rate);
     
     //llegeix les dades inicials del fitxer i crea els objectes necessaris
-    public static void inputData(String file_name);
+    public static void importData(String file_name);
 
     //comprova si les vacunes han acabat el període d'efecte i les elimina
     private static void updateVaccines();
