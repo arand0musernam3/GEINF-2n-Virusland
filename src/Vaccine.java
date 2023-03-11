@@ -1,3 +1,4 @@
+//Superclasse vacuna
 public abstract class Vaccine {
     
     //mètode abstracte per les implementacions

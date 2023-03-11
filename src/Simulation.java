@@ -1,3 +1,5 @@
+//Classe principal dedicada a realitzar la simulació tick per tick. Conté totes les regions,
+// vacunes i totes les dades necessàries per assolir els objectius del programa
 public class Simulation {
 	
 	//calcula cada tick i gestiona les operacions que s'han de fer a nivell de simulació

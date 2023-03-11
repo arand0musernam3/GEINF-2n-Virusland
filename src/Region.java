@@ -1,3 +1,4 @@
+//Classe que conté tots els mètodes i atributs per gestionar una regió
 public class Region {
 	
 	//afegeix la vacuna v a la regió 

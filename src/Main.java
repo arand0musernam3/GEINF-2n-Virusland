@@ -1,3 +1,4 @@
+//Classe principal encarregade de la entrada i sortida de dades, així com del while del programa principal
 public class Main {
 	
 	public static void Main(String[] args) {
