@@ -5,6 +5,5 @@ public class Virus {
     public void propagateVirus(Region r) {
 
     }
-    
-    
+
 }

@@ -2,8 +2,9 @@
 public class MutableVirus extends Virus {
     
 	//sobreescriptura del mètode de Virus
-    public void propagateVirus() {
-
+    @Override
+    public void propagateVirus(Region r) {
+        super.propagateVirus(r);
     }
     
     

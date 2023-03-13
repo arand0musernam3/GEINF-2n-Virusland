@@ -25,6 +25,11 @@ public class Region {
     public void updateMovements() {
 
     }
+
+    //calcula les dades del virus dins la regió
+    public void propagateViruses() {
+
+    }
     
     
 }
